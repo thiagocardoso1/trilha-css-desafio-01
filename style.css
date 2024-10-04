@@ -131,6 +131,9 @@ main section#professional-challenges {
 }
 
 main section#professional-challenges h2 {
+    max-width: 700px;
+    margin: auto;
+
     color: #33A8DB;
     font-size: 2.2em;
     text-transform: uppercase;
@@ -147,6 +150,7 @@ main section#professional-challenges p {
     color: white;
     max-width: 800px;
     margin: 50px auto;
+    padding: 0px 30px;
 }
 
 footer {
